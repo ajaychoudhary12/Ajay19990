@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajaychoudhary19990@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Gom06hXOT6cZMPktw2WVBc0mUqAQ1MA/view?usp=sharing](https://drive.google.com/file/d/19Gom06hXOT6cZMPktw2WVBc0mUqAQ1MA/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Gom06hXOT6cZMPktw2WVBc0mUqAQ1MA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
