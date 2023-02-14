@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Choudhary</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-- 🔭 I’m currently working on [Nooty App](https://github.com/devs-life/Nooty)
+- 🔭 I’m currently working on a PayU Project.
 
-- 🌱 I’m currently learning **Cloud Kit and iOS 13 UIKit updates**
+- 🌱 I’m currently learning **server-side-swift using Vapor**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajay19990](https://github.com/Ajay19990)
 
